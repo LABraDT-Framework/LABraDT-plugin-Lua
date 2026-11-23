@@ -4,9 +4,6 @@ Lua script interpreter for the LABraDT Runtime (artifact `de.labradt:runtime-lua
 `SCRIPT` / `LUA` services in a sandboxed LuaJ environment and lets a script call other services
 (`triggerNestedService`).
 
-**Internal ISW project. Do not publish.** The runtime plugins are moved out of the runtime project,
-so that the public LABraDT release ships the core and the plugin interfaces only.
-
 ## What is in here
 
 | Path | What it is |
